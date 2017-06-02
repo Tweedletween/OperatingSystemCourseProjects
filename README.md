@@ -1,7 +1,7 @@
 # OperatingSystemCourseProjects
 Operating System Course Projects:
-- Banker Algorithm Demo
-- NFU Aging Demo
-- Multi-Thread: Word Counter
+- Banker Algorithm Demo: BankerDemo
+- NFU Aging Demo: NFUAgingDemo
+- Multi-Thread: WordCounter
 - Multi-Process, Semaphor: ReaderAndPrinter 
  
