@@ -1,0 +1,1 @@
+This project use java's tread feature to simulate multi treads counting the words of an input file, with worker treads counting the words of the assigned block and the main tread adding up the counts all.
